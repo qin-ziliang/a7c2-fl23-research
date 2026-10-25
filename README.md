@@ -10,7 +10,7 @@
 >
 > ### No commercial use or profit-making
 >
-> **All commercial use and profit-making are prohibited.**
+> **All commercial use and profit-making are prohibited. The author explicitly opposes paid flashing, paid remote installation, resale or paid bundles of the tool, paid unlocking, selling activation keys/dongles, and hardware bundles for profit. This project is provided free of charge. The author offers no paid flashing service and has not authorized anyone to offer these paid services in the author's name.**
 >
 > ### Do not impersonate Sony or claim author authorization
 >
@@ -41,6 +41,7 @@ For other models, these independent projects may help. They are not part of this
 | --- | --- | --- |
 | A7CR | [lzh2016zzz/a7cr-fl23-research](https://github.com/lzh2016zzz/a7cr-fl23-research) | FL2/FL3 porting research |
 | A7CR | [injectiver/a7cr-creative-look-tools](https://github.com/injectiver/a7cr-creative-look-tools) | Research tools for FL2/FL3 and custom looks on firmware 2.01 (source only, no flashing command) |
+| A7CR | [littleben/a7cr-creative-look-tools](https://github.com/littleben/a7cr-creative-look-tools) | Independent A7CR 2.01 Creative Look research (source only; not supported by this app) |
 | A7R V | [Hearts-Ace/sony-a7r5-custom-firmware](https://github.com/Hearts-Ace/sony-a7r5-custom-firmware) | FL2/FL3 firmware adaptation and RAW color research |
 | A7 IV | [DavidBuchanan314/ILCE-7M4-RE](https://github.com/DavidBuchanan314/ILCE-7M4-RE) | Firmware reverse-engineering notes |
 | A6700 | [xyzhangxin/sony-a6700-powerful](https://github.com/xyzhangxin/sony-a6700-powerful) | Chinese guide for firmware 2.00: Pico wiring, Fastboot, backups and feature unlocks |
